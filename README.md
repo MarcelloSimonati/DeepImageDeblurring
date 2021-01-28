@@ -3,7 +3,7 @@ Deep Convolutional approaches for Gaussian and Motion Blur removal.
 
 [Project Report](DeepImageDeblurring_Report.pdf)
 
-Keras implementation of the models and techniques discussed in the report above. These implementations has been developed by Eleonora Mancini and Marcello Simonati (guarda per taggere github) as a project work for the Deep Learning course, part of the Master's Degree in Artificial Intelligence in University of Bologna (A.A. 2019-2020).
+Keras implementation of the models and techniques discussed in the report above. These implementations has been developed by [Eleonora Mancini](https://github.com/helemanc) and [Marcello Simonati](https://github.com/MarcelloSimonati) as a project work for the Deep Learning course, part of the Master's Degree in Artificial Intelligence in University of Bologna (A.A. 2019-2020).
 
 Our network takes blurry image crops as an input and produce the corresponding sharp estimate, as in the example:
 
