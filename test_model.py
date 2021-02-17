@@ -20,7 +20,7 @@ parser.add_argument("-md", "--model-directory",
 
 parser.add_argument("-wf", "--weights_file", 
                     dest="weights", 
-                    required=False,
+                    required=True,
                     help=".h5 file where the model weights are saved. To be found inside the specified directory", metavar="weightfile.h5")
 
 parser.add_argument("-mode", 
